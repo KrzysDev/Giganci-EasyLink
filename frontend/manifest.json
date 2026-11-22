@@ -1,0 +1,9 @@
+{
+  "name": "Giganci EasyLink Extention",
+  "description": "A minimal extention used for when educators want to open the same link on every computer.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "easylink.html"
+  }
+}
