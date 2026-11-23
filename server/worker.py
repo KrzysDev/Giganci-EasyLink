@@ -29,6 +29,8 @@ def ping():
 
 @app.post("/api/open_link")
 def open_link(url: str):
+    if "chrome" in url.lower():
+        url = "https://www.google.com"
     logging.info("open_link: %s", url)
     webbrowser.open(url)
     return {"opened": url}
