@@ -59,5 +59,12 @@ Projekt składa się z trzech minimalistycznych, lekkich modułów:
 
 ---
 
+### Przyszłe pomysły:
+Projekt jest wczesnym prototypem. Na razie chce wiedzieć czy w ogóle wejdzie w życie dlatego rozwinąłem jego minimalne MVP. Do rzeczy które warto zrobić należą:
+   - otwieranie linkow na konkretnych stanowiskach (checkboxy na liscie komputerow)
+   - optymalizacje, takie jak otwieranie kilku linkow jednoczesnie w threadpool'u a nie pojedynczo
+   - troche ladniejszy frontend (jestem bardziej backendowy)
+   
+
 ## 👥 Autor
 Krzysztof Sokołowski, Radom 2026
